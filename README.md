@@ -22,7 +22,7 @@ To install the Healthcare Services Management App, follow these steps:
 Clone the repository:
 <pre><copy>git clone https://github.com/ajaybaral/healthcare-services-app.git</copy></pre>
 Navigate to the project directory:
-<pre><code>cd healthcare-services-app</pre></code>
+<pre><code> cd healthcare-services-app </pre></code>
 
 Install the dependencies:
 <pre><code> npm install </pre></code>
