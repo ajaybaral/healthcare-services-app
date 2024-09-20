@@ -3,10 +3,10 @@ This is a simple React web application for managing healthcare services. Users c
 Features
 
 Display a list of healthcare services
-Add new services
-Update existing services
-Delete services
-Local storage persistence
+<li>Add new services</li>
+<li>Update existing services</li>
+<li>Delete services</li>
+<li>Local storage persistence</li>
 
 Prerequisites
 Before you begin, ensure you have met the following requirements:
