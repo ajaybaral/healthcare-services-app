@@ -21,7 +21,7 @@ Clone the repository:
 Copygit clone https://github.com/ajaybaral/healthcare-services-app.git
 
 Navigate to the project directory:
-<pre><code>cd healthcare-services-app</code>
+<pre><code>cd healthcare-services-app</pre></code>
 
 Install the dependencies:
 <pre><code> npm install </pre></code>
