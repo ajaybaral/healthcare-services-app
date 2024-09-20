@@ -25,7 +25,7 @@ Copycd healthcare-services-app
 
 Install the dependencies:
 npm install 
-npm install lucide-react
+
 
 
 Using Healthcare Services Management App
