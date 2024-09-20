@@ -34,6 +34,6 @@ Using Healthcare Services Management App
 To use the Healthcare Services Management App, follow these steps:
 
 Start the development server:
-<pre><code>npm start</pre></code>
+<pre><code>npm run dev</pre></code>
 
 Open your web browser and visit http://localhost:3000
