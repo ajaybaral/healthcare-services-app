@@ -8,6 +8,8 @@ Display a list of healthcare services
 <li>Delete services</li>
 <li>Local storage persistence</li>
 
+<br>
+
 Prerequisites
 Before you begin, ensure you have met the following requirements:
 
