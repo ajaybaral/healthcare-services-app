@@ -24,7 +24,7 @@ Navigate to the project directory:
 Copycd healthcare-services-app
 
 Install the dependencies:
-npm install 
+<pre><code> npm install </pre></code>
 
 
 
